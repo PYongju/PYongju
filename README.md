@@ -4,7 +4,7 @@ Hi, I'm Yongju! 👋
 
 **Aspiring Data Engineer & Data Analyst**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 * **Languages** : Python, SQL
 * **Backend** : FastAPI
