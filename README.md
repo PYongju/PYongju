@@ -8,6 +8,6 @@ Hi, I'm Yongju! 👋
 
 * **Languages** : Python, SQL
 * **Backend** : FastAPI
-* **Data & AI** : Machine Learning, RAG, Computer Vision (MediaPipe)
+* **Data & AI** : Machine Learning, RAG
 * **Cloud & DevOps** : Microsoft Azure, Docker
 * **Version Control** : Git & GitHub
