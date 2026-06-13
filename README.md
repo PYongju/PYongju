@@ -1,3 +1,13 @@
-## About me
-<h1>Hi, I'm <span style="color: #2D79C7;">Yongju</span>! 👋</h1>
-<p><strong>Aspiring Data Engineer & Data Analyst</strong></p>
+About me
+Hi, I'm Yongju! 👋
+
+Aspiring Data Engineer & Data Analyst
+
+🛠️ Tech Stack
+Languages : Python, SQL
+
+Backend : FastAPI
+
+Data & AI : Machine Learning, RAG, Computer Vision (MediaPipe)
+
+Cloud & DevOps : Microsoft Azure, Docker
